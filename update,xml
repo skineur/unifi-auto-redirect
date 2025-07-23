@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
+  <app appid="llmledhmabnfihkidkiooobmeiliocmd">
+    <updatecheck codebase="https://skineur.github.io/unifi-auto-redirect/eska-unifi-streaming-dectection.crx" version="1.6.0" />
+  </app>
+</gupdate>
